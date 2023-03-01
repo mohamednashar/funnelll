@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/funnelll/static/css/main.e2757c1c.css",
+    "main.js": "/funnelll/static/js/main.41fe9911.js",
+    "static/js/787.9863fc83.chunk.js": "/funnelll/static/js/787.9863fc83.chunk.js",
+    "static/media/track-actions.png": "/funnelll/static/media/track-actions.3ae7f3184281a62f3388.png",
+    "static/media/Johannes.png": "/funnelll/static/media/Johannes.cb62b842d07c70eda9bd.png",
+    "static/media/funnel.png": "/funnelll/static/media/funnel.7fefc25dced62e4adc8a.png",
+    "static/media/answers.png": "/funnelll/static/media/answers.6d96ed26fa11960b5108.png",
+    "static/media/frozenlemon.png": "/funnelll/static/media/frozenlemon.74dfb27e894556a8b7d0.png",
+    "static/media/integrations.png": "/funnelll/static/media/integrations.920c840b65ed4f44ee88.png",
+    "static/media/logo.svg": "/funnelll/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/funnelll/index.html",
+    "static/media/checked.svg": "/funnelll/static/media/checked.18b8f7fddc8133b9009391a6767396c1.svg",
+    "main.e2757c1c.css.map": "/funnelll/static/css/main.e2757c1c.css.map",
+    "main.41fe9911.js.map": "/funnelll/static/js/main.41fe9911.js.map",
+    "787.9863fc83.chunk.js.map": "/funnelll/static/js/787.9863fc83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2757c1c.css",
+    "static/js/main.41fe9911.js"
+  ]
+}
